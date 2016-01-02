@@ -1,0 +1,99 @@
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.EnrollmentForm.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.MainForm.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.CaptureForm.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.VerificationForm.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Documents and Settings\JAYMIYUKI\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.EnrollmentForm.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.authentication.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.dtr.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.reg.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.payroll.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.CaptureFormreg.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.timeattendance.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.AdminPanel.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.welcome.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.notifi.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.JobOrderPayroll.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Employee.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.PartTime.resources
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.exe.manifest
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.application
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe.manifest
+C:\Documents and Settings\JAYMIYUKI\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.application
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.exe.manifest
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.application
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.AdminPanel.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.authentication.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.CaptureFormreg.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.dtr.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Employee.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.EnrollmentForm.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.JobOrderPayroll.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.notifi.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.PartTime.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.timeattendance.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.payroll.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.reg.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.welcome.resources
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe.manifest
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.application
+C:\Users\Darwin\Desktop\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.confirmation.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.exe.manifest
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.application
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.AdminPanel.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.authentication.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.CaptureFormreg.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.confirmation.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.dtr.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Employee.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.EnrollmentForm.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.JobOrderPayroll.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.notifi.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.PartTime.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.timeattendance.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.payroll.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.reg.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.welcome.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe.manifest
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.application
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.individual_payslip.resources
+C:\Users\Darwin\Desktop\SYSTEM\thesis\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
